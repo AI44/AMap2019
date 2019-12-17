@@ -1,0 +1,2 @@
+include ':app', ':amaplibs', ':amapgooglelibs'
+rootProject.name='AMap2019'
